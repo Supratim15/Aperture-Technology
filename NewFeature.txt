@@ -1,0 +1,7 @@
+B
+
+Making changes
+aking further changes in feature2 branch
+
+ entered a few lines for testing
+This was in feature 1 branch
